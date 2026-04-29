@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-29 16:02 (IR Time)
+- 📥 **[mhr-cfw-2.0.0.zip](https://github.com/olfking/sandbox/raw/main/dl/mhr-cfw-2.0.0.zip)**
+
+
 ### 📅 2026-04-29 15:50 (IR Time)
 - 📥 **[mhrv-rs-windows-amd64.zip](https://github.com/olfking/sandbox/raw/main/dl/mhrv-rs-windows-amd64.zip)**
 
