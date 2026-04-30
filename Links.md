@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-30 18:28 (IR Time)
+- 📥 **[mhrv-rs-windows-amd64.zip](https://github.com/olfking/sandbox/raw/main/dl/mhrv-rs-windows-amd64.zip)**
+
+
 ### 📅 2026-04-30 12:56 (IR Time)
 - 📥 **[mhrv-rs-windows-amd64.zip](https://github.com/olfking/sandbox/raw/main/dl/mhrv-rs-windows-amd64.zip)**
 
